@@ -1,0 +1,23 @@
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+/* table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 5px;
+}
+*/
+th {
+    background-color: black;
+    color: white;
+}
+
+a {
+   display: flex;
+   justify-content: center;
+}
+
+
